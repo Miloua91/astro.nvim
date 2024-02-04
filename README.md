@@ -1,4 +1,4 @@
-![dash](doc/dashboard.png)
+![dash](doc/dashboard.PNG)
 
 ### Introduction
 
