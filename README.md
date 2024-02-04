@@ -8,27 +8,29 @@ This is my personal Neovim config which I use for web development. I used [kicks
 
 These are the plugins i use:
 
-- Bufferline/Top bar - [nvim-cokeline](https://github.com/willothy/nvim-cokeline) 
+- [alpha-nvim](https://github.com/goolord/alpha-nvim) | Greeter/Dashboard
 
-- Colorscheme/Theme - [grubbox.nvim](https://github.com/ellisonleao/gruvbox.nvim)
+- [edgy.nvim](https://github.com/folke/edgy.nvim) | Window layout manager
 
-- Diagnostics, references, telescope results, quickfix and location list - [trouble.nvim](https://github.com/folke/trouble.nvim)
+- [grubbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) | Colorscheme/Theme
 
-- Greeter/Dashboard - [alpha-nvim](https://github.com/goolord/alpha-nvim)
+- [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) | Statusline/Bottom bar
 
-- Markdown preview - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim)
+- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) | Markdown preview
 
-- Organizized/Note taking - [neorg](https://github.com/nvim-neorg/neorg)
+- [neorg](https://github.com/nvim-neorg/neorg) | Organizized/Note taking
 
-- Session manager - [neovim-session-manager](https://github.com/Shatur/neovim-session-manager)
+- [nvim-cokeline](https://github.com/willothy/nvim-cokeline) | Bufferline/Top bar 
 
-- Sidebar file system manager - [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim)
+- [neovim-session-manager](https://github.com/Shatur/neovim-session-manager) | Session manager
 
-- Statusline/Bottom bar - [lualine.nvim](https://github.com/nvim-lualine/lualine.nvim)
+- [neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) | Sidebar file system manager
 
-- TODO comments - [todo-comments.nvim](https://github.com/folke/todo-comments.nvim)
+- [todo-comments.nvim](https://github.com/folke/todo-comments.nvim) | TODO comments
 
-- Window layout manager - [edgy.nvim](https://github.com/folke/edgy.nvim)
+- [trouble.nvim](https://github.com/folke/trouble.nvim) | Diagnostics, references, telescope results, quickfix and location list
+
+
 
 Plus the ones that came with kickstart.nvim.
 
