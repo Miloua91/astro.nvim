@@ -1,4 +1,4 @@
-![dash](doc/dashboard.PNG)
+![dash](doc/dashboard.png)
 
 ### Introduction
 
@@ -11,6 +11,8 @@ These are the plugins i use:
 - [alpha-nvim](https://github.com/goolord/alpha-nvim) | Greeter/Dashboard
 
 - [edgy.nvim](https://github.com/folke/edgy.nvim) | Window layout manager
+
+- [conform.nvim](https://github.com/stevearc/conform.nvim) | Code formatter 
 
 - [grubbox.nvim](https://github.com/ellisonleao/gruvbox.nvim) | Colorscheme/Theme
 
